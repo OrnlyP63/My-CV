@@ -55,7 +55,7 @@ My projects primarily focus on improving model training time and reducing resour
   - Basic PyTroch Tutorial [link](https://github.com/OrnlyP63/torch)
   - TensorFlow tutorial [link](https://github.com/OrnlyP63/tensorflow-tutorial)
   - Air Pollution Prediction using GNN [link](https://github.com/OrnlyP63/GNN-for-predicting-Airpollution)
-  - Genertic Algorithm for Mathematics [link](https://github.com/OrnlyP63/Genetic-programing)
+  - Genetic Algorithm for Mathematics [link](https://github.com/OrnlyP63/Genetic-programing)
   - Z3 optimization [link](https://github.com/OrnlyP63/Z3)
   - Topic Clusting with LDA [link](https://github.com/OrnlyP63/lda_news_topic_iching)
   - Bird Song Detection using Deep Neural Network [link](https://github.com/OrnlyP63/BirdSongDetection)
