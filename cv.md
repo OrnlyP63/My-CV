@@ -18,10 +18,10 @@ I have been coding in Python and working with Artificial Intelligence/Machine Le
 My projects primarily focus on improving model training time and reducing resource consumption. I believe that modern Machine Learning needs to be optimized for online streaming data, which demands high computational power and fast training. I have experience writing CUDA C to accelerate model training through parallel processing. Additionally, I research models that require fewer computational resources during the training process. I believe my skills can help you develop Machine Learning solutions that enhance your business.
 
 ## Skills
-- Programming Languages: Python, Julia, C, CUDA C
+- Programming Languages: Python, Julia, C, CUDA C, NetLogo
 - Frameworks & Libraries: NumPy, SciPy, Pandas, Scikit-Learn, PyTorch, TensorFlow, Z3, NetworkX, JupyterLab, FastAPI
 - Tools & Technologies: Docker, Git
-- Models & Techniques: Extreme Learning Machine, Reservoir Computing, Reinforcement Learning, Agent-Based Modeling, Attention Mechanism, Transformers, Dendritic Gated Networks, High-Dimensional Computing, Conformal Prediction, Extreme Value Theory, Portfolio Optimization, Particle Swarm Optimization, Genetic Algorithm, Cryptography, Quantum Computing
+- Models & Techniques: Extreme Learning Machine, Reservoir Computing, Reinforcement Learning, Agent-Based Modeling, Attention Mechanism, Transformers, Dendritic Gated Networks, High-Dimensional Computing, Conformal Prediction, Extreme Value Theory, Portfolio Optimization, Particle Swarm Optimization, Genetic Algorithm, Cryptography, Quantum Computing, Monte Carlo Simulation
 
 ## Work Experience
 - AI Engineer Consultant – Synapes Thailand | Remote Freelancer | Jan 2022 – Present
