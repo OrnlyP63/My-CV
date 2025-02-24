@@ -21,7 +21,7 @@ My projects primarily focus on improving model training time and reducing resour
 - Programming Languages: Python, Julia, C, CUDA C, NetLogo
 - Frameworks & Libraries: NumPy, SciPy, Pandas, Scikit-Learn, PyTorch, TensorFlow, Z3, NetworkX, JupyterLab, FastAPI
 - Tools & Technologies: Docker, Git
-- Models & Techniques: Extreme Learning Machine, Reservoir Computing, Reinforcement Learning, Agent-Based Modeling, Attention Mechanism, Transformers, Dendritic Gated Networks, High-Dimensional Computing, Conformal Prediction, Extreme Value Theory, Portfolio Optimization, Particle Swarm Optimization, Genetic Algorithm, Cryptography, Quantum Computing, Monte Carlo Simulation
+- Models & Techniques: Extreme Learning Machine, Reservoir Computing, Reinforcement Learning, Agent-Based Modeling, Attention Mechanism, Transformers, Dendritic Gated Networks, Hyperdimensional Computing, Conformal Prediction, Extreme Value Theory, Portfolio Optimization, Particle Swarm Optimization, Genetic Algorithm, Cryptography, Quantum Computing, Monte Carlo Simulation
 
 ## Work Experience
 - AI Engineer Consultant – Synapes Thailand | Remote Freelancer | Jan 2022 – Present
