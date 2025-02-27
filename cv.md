@@ -38,7 +38,9 @@ My projects primarily focus on improving model training time and reducing resour
   - FastAPI
 - Tools & Technologies: 
   - Docker, 
-  - Git
+  - Git,
+  - Streamlit
+  - Gradio
 - Models & Techniques: 
   - Extreme Learning Machine, 
   - Reservoir Computing, 
