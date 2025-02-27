@@ -108,3 +108,15 @@ My projects primarily focus on improving model training time and reducing resour
 - Nonlinear Dynamics: Mathematical and Computational Approaches [link](https://www.complexityexplorer.org/courses/184-nonlinear-dynamics-mathematical-and-computational-approaches-2024/certificates/4102291458)
 - Introduction to Dynamical Systems and Chaos [link](https://www.complexityexplorer.org/courses/186-introduction-to-dynamical-systems-and-chaos/certificates/4102422530)
 - Fractals and Scaling [link](https://www.complexityexplorer.org/courses/187-fractals-and-scaling/certificates/4070047746)
+
+<div align="center">
+<img src="4.jpg" height="450" >
+
+<img src="1.jpg" height="450" >
+
+<img src="2.jpg" height="450" >
+
+<img src="3.jpg" height="450" >
+
+
+</div>
