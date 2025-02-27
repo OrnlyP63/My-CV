@@ -14,15 +14,48 @@ GitHub: https://github.com/OrnlyP63
 Medium: https://medium.com/@phiphatchomchit   
 Linkedin: https://www.linkedin.com/in/phiphat-chomchit-517b81206/
 ## Profile 
-I have been coding in Python and working with Artificial Intelligence/Machine Learning for five years. I hold a bachelor's degree in Mathematics and a master's degree in Data Science. My expertise includes Statistics, Probability Theory, Linear Algebra, Calculus, Partial Differential Equations, and Ordinary Differential Equations, all integrated with Machine Learning applications. I have experience building Machine Learning projects using various frameworks and tools, including NumPy, SciPy, Pandas, Scikit-Learn, PyTorch, TensorFlow, FastAPI, GitHub, and Docker.
+I have been coding in Python and **working with Artificial Intelligence/Machine Learning for five years**. I hold a **bachelor's degree in Mathematics** and a **master's degree in Data Science**. My expertise includes Statistics, Probability Theory, Linear Algebra, Calculus, Partial Differential Equations, and Ordinary Differential Equations, all integrated with Machine Learning applications. I have experience building Machine Learning projects using various frameworks and tools, including NumPy, SciPy, Pandas, Scikit-Learn, PyTorch, TensorFlow, FastAPI, GitHub, and Docker.
 
 My projects primarily focus on improving model training time and reducing resource consumption. I believe that modern Machine Learning needs to be optimized for online streaming data, which demands high computational power and fast training. I have experience writing CUDA C to accelerate model training through parallel processing. Additionally, I research models that require fewer computational resources during the training process. I believe my skills can help you develop Machine Learning solutions that enhance your business.
 
 ## Skills
-- Programming Languages: Python, Julia, C, CUDA C, NetLogo
-- Frameworks & Libraries: NumPy, SciPy, Pandas, Scikit-Learn, PyTorch, TensorFlow, Z3, NetworkX, JupyterLab, FastAPI
-- Tools & Technologies: Docker, Git
-- Models & Techniques: Extreme Learning Machine, Reservoir Computing, Reinforcement Learning, Agent-Based Modeling, Attention Mechanism, Transformers, Dendritic Gated Networks, Hyperdimensional Computing, Conformal Prediction, Extreme Value Theory, Portfolio Optimization, Particle Swarm Optimization, Genetic Algorithm, Cryptography, Quantum Computing, Monte Carlo Simulation
+- Programming Languages: 
+  - Python, 
+  - Julia, 
+  - C, 
+  - CUDA C, 
+  - NetLogo
+- Frameworks & Libraries: 
+  - NumPy, 
+  - SciPy, 
+  - Pandas, 
+  - Scikit-Learn, 
+  - PyTorch, 
+  - TensorFlow, 
+  - Z3, 
+  - NetworkX, 
+  - JupyterLab, 
+  - FastAPI
+- Tools & Technologies: 
+  - Docker, 
+  - Git
+- Models & Techniques: 
+  - Extreme Learning Machine, 
+  - Reservoir Computing, 
+  - Reinforcement Learning, 
+  - Agent-Based Modeling, 
+  - Attention Mechanism, 
+  - Transformers, 
+  - Dendritic Gated Networks, 
+  - Hyperdimensional Computing, 
+  - Conformal Prediction, 
+  - Extreme Value Theory, 
+  - Portfolio Optimization, 
+  - Particle Swarm Optimization, 
+  - Genetic Algorithm, 
+  - Cryptography, 
+  - Quantum Computing, 
+  - Monte Carlo Simulation
 
 ## Work Experience
 - AI Engineer Consultant – Synapes Thailand | Remote Freelancer | Jan 2022 – Present
