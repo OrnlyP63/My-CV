@@ -3,14 +3,15 @@
 <img src="profile.jpg" height="250" >
 </div>
 
+Name: Mr. Phiphat Chomchit  
+Birth date: 27/02/1995  
+Location: Chiang Mai, Thailand 
 ## Contact Information
 
-Name: Mr. Phiphat Chomchit  
 Email: takezocmu@gmail.com  
 Phone number: 0951851163  
 GitHub: https://github.com/OrnlyP63  
 Medium: https://medium.com/@phiphatchomchit   
-Location: Chiang Mai, Thailand  
 Linkedin: https://www.linkedin.com/in/phiphat-chomchit-517b81206/
 ## Profile 
 I have been coding in Python and working with Artificial Intelligence/Machine Learning for five years. I hold a bachelor's degree in Mathematics and a master's degree in Data Science. My expertise includes Statistics, Probability Theory, Linear Algebra, Calculus, Partial Differential Equations, and Ordinary Differential Equations, all integrated with Machine Learning applications. I have experience building Machine Learning projects using various frameworks and tools, including NumPy, SciPy, Pandas, Scikit-Learn, PyTorch, TensorFlow, FastAPI, GitHub, and Docker.
