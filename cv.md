@@ -100,6 +100,7 @@ My projects primarily focus on improving model training time and reducing resour
 - Master’s Degree in Data Science, Department of Engineering, Chiang Mai University (2021–Present)
 
 ## Certifications
+- Super AI Engineer Season 2
 - Automated Reasoning: satisfiability [link](https://coursera.org/share/0a2a6dc3c8365fa0d29b9e85b532c90a)
 - Neural Networks and Deep Learning [link](https://coursera.org/share/7ea0edec6eccd6c1ab0447b90b9ec1c2)
 - Biology Meets Programming: Bioinformatics for Beginners [link](https://coursera.org/share/733bc7c90f91a5e06b7061d135265c03)
