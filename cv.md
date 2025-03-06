@@ -111,14 +111,13 @@ My projects primarily focus on improving model training time and reducing resour
 - Introduction to Dynamical Systems and Chaos [link](https://www.complexityexplorer.org/courses/186-introduction-to-dynamical-systems-and-chaos/certificates/4102422530)
 - Fractals and Scaling [link](https://www.complexityexplorer.org/courses/187-fractals-and-scaling/certificates/4070047746)
 
-<div align="center">
-<img src="4.jpg" height="450" >
+<!-- <div align="center"> -->
+<img src="4_out.jpg" height="450" >
 
-<img src="1.jpg" height="450" >
+<img src="1_out.jpg" height="450" >
 
-<img src="2.jpg" height="450" >
+<img src="2_out.jpg" height="450" >
 
-<img src="3.jpg" height="450" >
-
+<img src="3_out.jpg" height="450" >
 
 </div>
