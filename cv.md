@@ -66,6 +66,7 @@ My projects primarily focus on improving model training time and reducing resour
   - Anomaly Detection using Machine Learning – Built anomaly detection systems for fraud prevention, improving security and reducing financial losses.
   - Churn Rate Analysis on Customer Data – Performed data cleaning and visualization to identify high-risk customers, helping improve retention strategies.
   - Predicting Default Debt Rate in Finance – Developed financial risk models to assess default probability, enabling businesses to manage risk more effectively.
+  - Conducted training sessions on Machine Learning, PyTorch, and Reinforcement Learning for AIT Thailand. Designed and delivered hands-on workshops, guiding participants in implementing ML and RL models.
 
 ## Personal Projects
 
