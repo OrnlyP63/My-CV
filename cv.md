@@ -13,11 +13,29 @@ Phone number: 0951851163
 GitHub: https://github.com/OrnlyP63  
 Medium: https://medium.com/@phiphatchomchit   
 Linkedin: https://www.linkedin.com/in/phiphat-chomchit-517b81206/
+
+---
 ## Profile 
 I have been coding in Python and **working with Artificial Intelligence/Machine Learning for five years**. I hold a **bachelor's degree in Mathematics** and a **master's degree in Data Science**. My expertise includes Statistics, Probability Theory, Linear Algebra, Calculus, Partial Differential Equations, and Ordinary Differential Equations, all integrated with Machine Learning applications. I have experience building Machine Learning projects using various frameworks and tools, including NumPy, SciPy, Pandas, Scikit-Learn, PyTorch, TensorFlow, FastAPI, GitHub, and Docker.
 
 My projects primarily focus on improving model training time and reducing resource consumption. I believe that modern Machine Learning needs to be optimized for online streaming data, which demands high computational power and fast training. I have experience writing CUDA C to accelerate model training through parallel processing. Additionally, I research models that require fewer computational resources during the training process. I believe my skills can help you develop Machine Learning solutions that enhance your business.
 
+---
+## Work Experience
+- AI Engineer Consultant – Synapes Thailand | Remote Freelancer | Jan 2022 – Present
+  - Cryptocurrency Portfolio Optimization – Developed optimization models for asset allocation, improving portfolio returns while reducing risk exposure.
+  - Route Optimization – Designed AI-driven routing algorithms to minimize logistics costs and enhance operational efficiency.
+  - Anomaly Detection using Machine Learning – Built anomaly detection systems for fraud prevention, improving security and reducing financial losses.
+  - Churn Rate Analysis on Customer Data – Performed data cleaning and visualization to identify high-risk customers, helping improve retention strategies.
+  - Predicting Default Debt Rate in Finance – Developed financial risk models to assess default probability, enabling businesses to manage risk more effectively.
+  - Conducted training sessions on Machine Learning, PyTorch, and Reinforcement Learning for AIT Thailand. Designed and delivered hands-on workshops, guiding participants in implementing ML and RL models.
+  
+---
+## Education
+- Bachelor’s Degree in Mathematics, Faculty of Science, Chiang Mai University (2014–2018)
+- Master’s Degree in Data Science, Department of Engineering, Chiang Mai University (2021–Present)
+  
+---
 ## Skills
 - Programming Languages: 
   - Python, 
@@ -59,15 +77,7 @@ My projects primarily focus on improving model training time and reducing resour
   - Quantum Computing, 
   - Monte Carlo Simulation
 
-## Work Experience
-- AI Engineer Consultant – Synapes Thailand | Remote Freelancer | Jan 2022 – Present
-  - Cryptocurrency Portfolio Optimization – Developed optimization models for asset allocation, improving portfolio returns while reducing risk exposure.
-  - Route Optimization – Designed AI-driven routing algorithms to minimize logistics costs and enhance operational efficiency.
-  - Anomaly Detection using Machine Learning – Built anomaly detection systems for fraud prevention, improving security and reducing financial losses.
-  - Churn Rate Analysis on Customer Data – Performed data cleaning and visualization to identify high-risk customers, helping improve retention strategies.
-  - Predicting Default Debt Rate in Finance – Developed financial risk models to assess default probability, enabling businesses to manage risk more effectively.
-  - Conducted training sessions on Machine Learning, PyTorch, and Reinforcement Learning for AIT Thailand. Designed and delivered hands-on workshops, guiding participants in implementing ML and RL models.
-
+---
 ## Personal Projects
 
 - My medium blog: I write many articles about Probability theory, Mathemtics and AI
@@ -98,10 +108,7 @@ My projects primarily focus on improving model training time and reducing resour
   - Bird Song Detection using Deep Neural Network [link](https://github.com/OrnlyP63/BirdSongDetection)
   - Time Table Management using GA [link](https://github.com/OrnlyP63/Time-table-manage/tree/master/table)
   
-## Education
-- Bachelor’s Degree in Mathematics, Faculty of Science, Chiang Mai University (2014–2018)
-- Master’s Degree in Data Science, Department of Engineering, Chiang Mai University (2021–Present)
-
+---
 ## Certifications
 - Super AI Engineer Season 2
 - Automated Reasoning: satisfiability [link](https://coursera.org/share/0a2a6dc3c8365fa0d29b9e85b532c90a)
