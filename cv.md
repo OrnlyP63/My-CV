@@ -12,7 +12,8 @@ Email: takezocmu@gmail.com
 Phone number: 0951851163  
 GitHub: https://github.com/OrnlyP63  
 Medium: https://medium.com/@phiphatchomchit   
-Linkedin: https://www.linkedin.com/in/phiphat-chomchit-517b81206/
+Linkedin: https://www.linkedin.com/in/phiphat-chomchit-517b81206/  
+Line ID: ornly_p
 
 ---
 ## Profile 
