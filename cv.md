@@ -39,11 +39,11 @@ My projects primarily focus on improving model training time and reducing resour
 ---
 ## Skills
 - Programming Languages: 
-  - Python, 
-  - Julia, 
-  - C, 
-  - CUDA C, 
-  - NetLogo
+  - Python: Python Data Analysis, Machine learning, AI development, 
+  - Julia: Mathemtic Models, Simulation, 
+  - C: Basic programing, 
+  - CUDA C: Optimization, 
+  - NetLogo: Agent-Based modeling
 - Frameworks & Libraries: 
   - NumPy, 
   - SciPy, 
