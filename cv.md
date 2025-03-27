@@ -17,14 +17,14 @@ Line ID: ornly_p
 
 ---
 ## Profile 
-I have been coding in Python and **working with Artificial Intelligence/Machine Learning for five years**. I hold a **bachelor's degree in Mathematics** and a **master's degree in Data Science**. My expertise includes Statistics, Probability Theory, Linear Algebra, Calculus, Partial Differential Equations, and Ordinary Differential Equations, all integrated with Machine Learning applications. I have experience building Machine Learning projects using various frameworks and tools, including NumPy, SciPy, Pandas, Scikit-Learn, PyTorch, TensorFlow, FastAPI, GitHub, and Docker.
+I have been coding in Python and **working with Artificial Intelligence/Machine Learning for five years**. I hold a **bachelor's degree in Mathematics** and a **master's degree in Data Science**. <span style="color: teal;">My expertise includes Statistics, Probability Theory, Linear Algebra, Calculus, Partial Differential Equations, and Ordinary Differential Equations, all integrated with Machine Learning applications.</span> I have experience building Machine Learning projects using various frameworks and tools, including <span style="color: cyan;">NumPy, SciPy, Pandas, Scikit-Learn, PyTorch, TensorFlow, FastAPI, GitHub, and Docker.</span>
 
 My projects primarily focus on improving model training time and reducing resource consumption. I believe that modern Machine Learning needs to be optimized for online streaming data, which demands high computational power and fast training. I have experience writing CUDA C to accelerate model training through parallel processing. Additionally, I research models that require fewer computational resources during the training process. I believe my skills can help you develop Machine Learning solutions that enhance your business.
 
 ---
 ## Work Experience
 - AI Engineer Consultant – Synapes Thailand | Remote Freelancer | Jan 2022 – Present
-  - Cryptocurrency Portfolio Optimization – Developed optimization models for asset allocation, improving portfolio returns while reducing risk exposure.
+  - <span style="color: cyan;">Cryptocurrency Portfolio Optimization</span> – Developed optimization models for asset allocation, improving portfolio returns while reducing risk exposure.
   - Route Optimization – Designed AI-driven routing algorithms to minimize logistics costs and enhance operational efficiency.
   - Anomaly Detection using Machine Learning – Built anomaly detection systems for fraud prevention, improving security and reducing financial losses.
   - Churn Rate Analysis on Customer Data – Performed data cleaning and visualization to identify high-risk customers, helping improve retention strategies.
@@ -95,7 +95,7 @@ My projects primarily focus on improving model training time and reducing resour
   - A Product of Two Primes with Difference 2 [link](https://www.tandfonline.com/doi/full/10.1080/00029890.2022.2004850)
 - Conferences
   - Strong-motion Earthquake Prediction Model using Convolutional Extreme Learning Machine [link](https://ieeexplore.ieee.org/abstract/document/9894973/)
-  - Auto Encoder for Anomaly Detection in the Cryptocurrency Market Using On-Chain Data [link](https://github.com/OrnlyP63/attention-auto-encoder)
+  - <span style="color: cyan;">Auto Encoder for Anomaly Detection in the Cryptocurrency Market Using On-Chain Data</span> [link](https://github.com/OrnlyP63/attention-auto-encoder)
 - GitHub Project
   - Complexity Sciece Project [link](https://github.com/OrnlyP63/complex-model)
   - Quantum Tutorial [link](https://github.com/OrnlyP63/Quantum_Tutorial)
