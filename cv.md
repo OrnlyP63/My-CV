@@ -1,30 +1,43 @@
+<style>
+    @page {
+        margin: 1.5cm; /* Adjust this number to change the margin size */
+        size: A4;
+    }
+    body {
+        font-family: 'Helvetica', 'Arial', sans-serif; /* Makes it look professional */
+        line-height: 1.4;
+    }
+</style>
+
+
 # CV
 <div align="center">
-<img src="profile.jpg" height="250" >
+<img src="image.jpg" height="250" >
 </div>
 
 Name: Mr. Phiphat Chomchit  
 Birth date: 27/02/1995  
-Location: Chiang Mai, Thailand 
+Location: Chiang Mai, Thailand   
+GitHub: https://github.com/OrnlyP63  
+Medium: https://medium.com/@phiphatchomchit   
+
 ## Contact Information
 
 Email: takezocmu@gmail.com  
 Phone number: 0951851163  
-GitHub: https://github.com/OrnlyP63  
-Medium: https://medium.com/@phiphatchomchit   
-Linkedin: https://www.linkedin.com/in/phiphat-chomchit-517b81206/  
-Line ID: ornly_p
 
 ---
 ## Profile 
-I have been coding in Python and **working with Artificial Intelligence/Machine Learning for five years**. I hold a **bachelor's degree in Mathematics** and a **master's degree in Data Science**. <span style="color: teal;">My expertise includes Statistics, Probability Theory, Linear Algebra, Calculus, Partial Differential Equations, and Ordinary Differential Equations, all integrated with Machine Learning applications.</span> I have experience building Machine Learning projects using various frameworks and tools, including <span style="color: cyan;">NumPy, SciPy, Pandas, Scikit-Learn, PyTorch, TensorFlow, FastAPI, GitHub, and Docker.</span>
+I have been coding in Python and **working with Artificial Intelligence/Machine Learning for five years**. I hold a **bachelor's degree in Mathematics** and a **master's degree in Data Science**. <span style="color: teal;">My expertise includes Statistics, Probability Theory, Linear Algebra, Calculus, Partial Differential Equations, and Ordinary Differential Equations, all integrated with Machine Learning applications.</span> I have experience building Machine Learning projects using various frameworks and tools, including <span style="color: blue;">NumPy, SciPy, Pandas, Scikit-Learn, PyTorch, TensorFlow, FastAPI, GitHub, and Docker.</span>
 
 My projects primarily focus on improving model training time and reducing resource consumption. I believe that modern Machine Learning needs to be optimized for online streaming data, which demands high computational power and fast training. I have experience writing CUDA C to accelerate model training through parallel processing. Additionally, I research models that require fewer computational resources during the training process. I believe my skills can help you develop Machine Learning solutions that enhance your business.
 
 ---
 ## Work Experience
-- AI Engineer Consultant – Synapes Thailand | Remote Freelancer | Jan 2022 – Present
-  - <span style="color: cyan;">Cryptocurrency Portfolio Optimization</span> – Developed optimization models for asset allocation, improving portfolio returns while reducing risk exposure.
+- My Research: Strong-motion Earthquake Prediction Model using Convolutional Extreme Learning Machine [link](https://ieeexplore.ieee.org/abstract/document/9894973/)
+
+- AI Engineer – Synapes Thailand | Remote Freelancer | Jan 2022 – Present
+  - Cryptocurrency Portfolio Optimization – Developed optimization models for asset allocation, improving portfolio returns while reducing risk exposure.
   - Route Optimization – Designed AI-driven routing algorithms to minimize logistics costs and enhance operational efficiency.
   - Anomaly Detection using Machine Learning – Built anomaly detection systems for fraud prevention, improving security and reducing financial losses.
   - Churn Rate Analysis on Customer Data – Performed data cleaning and visualization to identify high-risk customers, helping improve retention strategies.
@@ -58,7 +71,7 @@ My projects primarily focus on improving model training time and reducing resour
 - Tools & Technologies: 
   - Docker, 
   - Git,
-  - Streamlit
+  - Streamlit,
   - Gradio
 - Models & Techniques: 
   - Extreme Learning Machine, 
@@ -77,6 +90,7 @@ My projects primarily focus on improving model training time and reducing resour
   - Cryptography, 
   - Quantum Computing, 
   - Monte Carlo Simulation
+  - Large Language Model
 
 ---
 ## Personal Projects
@@ -95,7 +109,7 @@ My projects primarily focus on improving model training time and reducing resour
   - A Product of Two Primes with Difference 2 [link](https://www.tandfonline.com/doi/full/10.1080/00029890.2022.2004850)
 - Conferences
   - Strong-motion Earthquake Prediction Model using Convolutional Extreme Learning Machine [link](https://ieeexplore.ieee.org/abstract/document/9894973/)
-  - <span style="color: cyan;">Auto Encoder for Anomaly Detection in the Cryptocurrency Market Using On-Chain Data</span> [link](https://github.com/OrnlyP63/attention-auto-encoder)
+  - Auto Encoder for Anomaly Detection in the Cryptocurrency Market Using On-Chain Data[link](https://github.com/OrnlyP63/attention-auto-encoder)
 - GitHub Project
   - Complexity Sciece Project [link](https://github.com/OrnlyP63/complex-model)
   - Quantum Tutorial [link](https://github.com/OrnlyP63/Quantum_Tutorial)
@@ -120,7 +134,7 @@ My projects primarily focus on improving model training time and reducing resour
 - Introduction to Dynamical Systems and Chaos [link](https://www.complexityexplorer.org/courses/186-introduction-to-dynamical-systems-and-chaos/certificates/4102422530)
 - Fractals and Scaling [link](https://www.complexityexplorer.org/courses/187-fractals-and-scaling/certificates/4070047746)
 
-<!-- <div align="center"> -->
+<!-- <div align="center">
 <img src="4_out.jpg" height="450" >
 
 <img src="1_out.jpg" height="450" >
@@ -129,4 +143,6 @@ My projects primarily focus on improving model training time and reducing resour
 
 <img src="3_out.jpg" height="450" >
 
-</div>
+<img src="5_out.jpg" height="450" >
+
+</div> -->
